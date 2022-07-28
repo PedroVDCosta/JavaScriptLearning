@@ -1,2 +1,2 @@
 # JavaScriptLearning
-Repository for teaching JavaScript purposes.
+Repository for teaching JavaScript.
